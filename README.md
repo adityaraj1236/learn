@@ -1,4 +1,6 @@
 # learn
+
+```
  $ mkdir linux
 mkdir: cannot create directory ‘linux’: File exists
 @adityaraj1236 ➜ /workspaces/learn (main) $ ls -l
@@ -16,4 +18,4 @@ drwxrwxrwx+ 2 codespace codespace 4096 Feb 25 16:16 linux
 console.log("hello");
 let a  = 3  ;
 a =  a+  5 ; 
-console.log(a);@adityaraj1236 ➜ /workspaces/learn (main) $ 
+```
